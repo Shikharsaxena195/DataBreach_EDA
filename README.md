@@ -8,8 +8,12 @@ In order to tackle this situation, it is only right that we must study this issu
 
 This data contains 5 columns:
 
-Entity: The name of the company, organization or institute
-Year: In what year did the data breach took place
+Entity: The name of the company, organization or institute.
+
+Year: In what year did the data breach took place.
+
 Records: How many records were compromised (can include information like email, passwords etc.)
+
 Organization type: Which sector does the organization belong to
+
 Method: Was it hacked? Were the files lost? Was it an inside job?
